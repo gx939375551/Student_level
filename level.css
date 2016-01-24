@@ -1,0 +1,28 @@
+.container{
+
+	margin-left: 43%;
+	margin-top: 100px;
+}
+h3{
+    margin-left: 15px;
+}
+.input-style{
+	display: block;
+	width: 140px;
+	height: 30px;
+	border: 1px solid #fb4444;
+	padding-left: 10px;
+	margin-top: 10px;
+}
+.input-style-2{
+	border: 1px solid #767676;
+}
+.btn-style{
+	margin-top: 10px;
+	margin-left: 30px;
+	width: 80px;
+	height: 30px;
+	border: none;
+	background-color: #fb4444;
+	color: #ffffff;
+}
